@@ -1,9 +1,7 @@
 ---
 ---
 <?php
-/**
- * Captcha credit to http://99webtools.com/blog/php-simple-captcha-script/
- */
+
 session_start();
 if ($_SERVER["REQUEST_METHOD"] != "POST") {
   header($_SERVER["SERVER_PROTOCOL"] ." 404 Not Found");
