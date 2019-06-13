@@ -10,11 +10,6 @@ date: 2019-03-19 06:11:23 +0200
 lastmod: 2019-03-19 06:11:23 +0200
 ---
 
-#### Results
-
-- 24% increase in M, measured by N
-- ...
-
 #### Summary
 
 Check out its Source Code at https://github.com/blessedrt/python_blockchain

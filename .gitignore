@@ -3,7 +3,6 @@
 .sass-cache/
 _site/
 _data/tokens.yml
-_posts/5*
 _posts/6*
 _posts/7*
 _posts/8*
@@ -16,6 +15,8 @@ _posts/14*
 _posts/15*
 _posts/16*
 _posts/17*
+_posts/18*
+_posts/19*
 unique/
 _site.env
 _my/
