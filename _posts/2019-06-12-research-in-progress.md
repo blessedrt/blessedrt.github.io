@@ -1,6 +1,7 @@
 ---
 title: Research In Progress
 excerpt: research in progress...
+tags: featured
 author: blessedrt
 categories:
   - topics
